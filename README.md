@@ -2,6 +2,10 @@
 
 ![banner](https://github.com/josh-Muleshi/josh-Muleshi/blob/master/assets/josh-banner.png)
 
+## My new banner
+
+![md11](https://user-images.githubusercontent.com/60498337/94042865-fccd8980-fdc3-11ea-925e-571921f73197.png)
+
 Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and movies. I’m also interested in sports and travel. https://about.me/josh-muleshi
 
 
