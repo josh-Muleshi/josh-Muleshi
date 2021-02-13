@@ -6,6 +6,9 @@ Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in
 
 
 ## 🔭 I’m currently working on 
+- UPAKOBuzz : https://github.com/josh-Muleshi/UPAKOBuz
+- Ecodim : https://github.com/josh-Muleshi/Ecodim
+- StatusApp : https://github.com/josh-Muleshi/StatusApp
 - africa-chat : https://github.com/josh-Muleshi/africa-chat
 - Toast-page : https://github.com/josh-Muleshi/Toast-page
 - Firebase-chat-java-app : https://github.com/josh-Muleshi/Firebase-chat-java-app
@@ -21,6 +24,5 @@ Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in
 - [Linkedin](https://www.linkedin.com/in/josu%C3%A9-muleshi-220623158/)
 - [Discord](https://discord.com/channels/@me)
 - [Twitter](https://twitter.com/home?lang=fr)
-- [Facebook](https://web.facebook.com/josue.muleshi?ref=bookmarks)
 
 📋 My resume : [resume](https://github.com/josh-Muleshi/josh-Muleshi/blob/master/assets/josh-MULESHI-cv.pdf)
