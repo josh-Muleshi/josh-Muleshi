@@ -5,6 +5,11 @@
 Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and movies. I’m also interested in sports and travel. https://about.me/josh-muleshi
 
 
+![Josh's github stats](https://github-readme-stats.vercel.app/api?username=josh-Muleshi&show_icons=true&count_private=true&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-Muleshi&layout=compact)
+
+
 ## 🔭 I’m currently working on 
 - UPAKOBuzz : https://github.com/josh-Muleshi/UPAKOBuz
 - Ecodim : https://github.com/josh-Muleshi/Ecodim
