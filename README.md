@@ -5,25 +5,14 @@
 Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and movies. I’m also interested in sports and travel. https://about.me/josh-muleshi
 
 
-![Josh's github stats](https://github-readme-stats.vercel.app/api?username=josh-Muleshi&show_icons=true&count_private=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-Muleshi&layout=compact)
+.[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=josh-Muleshi&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/josh-Muleshi)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-Muleshi&layout=default&theme=algolia&hide=javascript,html,css)](https://github.com/josh-Muleshi)
 
 
 ## 🔭 I’m currently working on 
-- UPAKOBuzz : https://github.com/josh-Muleshi/UPAKOBuz
-- Ecodim : https://github.com/josh-Muleshi/Ecodim
-- StatusApp : https://github.com/josh-Muleshi/StatusApp
-- africa-chat : https://github.com/josh-Muleshi/africa-chat
-- Toast-page : https://github.com/josh-Muleshi/Toast-page
-- Firebase-chat-java-app : https://github.com/josh-Muleshi/Firebase-chat-java-app
-- First-vuejs-project : https://github.com/josh-Muleshi/First-vuejs-project
+- E-Slip : https://github.com/josh-Muleshi/E-Slip
+- Conscience : https://github.com/josh-Muleshi/Conscience
 
-
-## 👨🏽‍🔧 I've built and worked on
-- https://github.com/david14ka/ChantLouange
-- https://github.com/david14ka/tclcantiques
-
+![Josh's Activities Graph](https://activity-graph.herokuapp.com/graph?username=josh-Muleshi&theme=github)
 
 ## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/josu%C3%A9-muleshi-220623158/)
