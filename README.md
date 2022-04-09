@@ -9,8 +9,9 @@ Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in
 
 
 ## 🔭 I’m currently working on 
-- E-Slip : https://github.com/josh-Muleshi/E-Slip
-- Conscience : https://github.com/josh-Muleshi/Conscience
+- Mzr : https://github.com/josh-Muleshi/Mzr
+- OkHand : https://github.com/josh-Muleshi/OkHand
+- MySpace : https://github.com/josh-Muleshi/MySpace
 
 ![Josh's Activities Graph](https://activity-graph.herokuapp.com/graph?username=josh-Muleshi&theme=github)
 
