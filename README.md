@@ -13,8 +13,6 @@ Hey, I’m josh. I’m a Software Engineer, Web Developer, and Student living in
 - OkHand : https://github.com/josh-Muleshi/OkHand
 - MySpace : https://github.com/josh-Muleshi/MySpace
 
-![Josh's Activities Graph](https://activity-graph.herokuapp.com/graph?username=josh-Muleshi&theme=github)
-
 ## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/josu%C3%A9-muleshi-220623158/)
 - [Discord](https://discord.com/channels/@me)
