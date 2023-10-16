@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=0969da&size=43&width=450&height=76&lines=Jambo+%F0%9F%91%8B%2C+I'm+Josh+Muleshi" alt="josh-Muleshi" />
 </p>
+
 ## ✌🏽 About me
 
 ![md11](https://user-images.githubusercontent.com/60498337/94042865-fccd8980-fdc3-11ea-925e-571921f73197.png)
