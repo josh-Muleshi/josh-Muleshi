@@ -9,14 +9,13 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I’m josh. I’m a Software Engineer, Mobile Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and movies. I’m also interested in sports and travel. https://about.me/josh-muleshi
 
 <p align="center">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=josh-Muleshi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josh-Muleshi&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-Muleshi&show_icons=true&theme=transparent" />
   <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josh-Muleshi&theme=github_dark" />
 </p>
 
 ## 🔭 I’m currently working on 
-- Mzr : https://github.com/josh-Muleshi/Mzr
-- OkHand : https://github.com/josh-Muleshi/OkHand
-- MySpace : https://github.com/josh-Muleshi/MySpace
+- 
 
 ## 📫 How to reach me
 
