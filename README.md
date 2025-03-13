@@ -29,8 +29,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 ## 📫 How to reach me
 
 <br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmuleshi2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-muleshi-220623158/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=fr)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=in&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-muleshi-220623158/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/home?lang=fr)
 [![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 📋 My resume : [resume](https://github.com/josh-Muleshi/josh-Muleshi/blob/master/assets/josh-MULESHI-cv.pdf)
