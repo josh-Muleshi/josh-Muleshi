@@ -8,9 +8,18 @@
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I’m josh. I’m a Software Engineer, Mobile Developer, and Student living in Democratic Republic of the Congo. I am a fan of technology, music, and movies. I’m also interested in sports and travel. https://about.me/josh-muleshi
 
+## 👨🏾‍💻 Languages
+
+<p align="center">
+  <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/PHP-00ADD8?style=for-the-badge&logo=php&logoColor=white">&nbsp;
+  <img  src="https://img.shields.io/badge/JavaScript-FFE873?style=for-the-badge&logo=javascript&logoColor=gray">&nbsp;
+  <img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josh-Muleshi&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-Muleshi&show_icons=true&theme=transparent" />
+  <img width="307em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-Muleshi&hide=html&langs_count=8&layout=compact&theme=transparent" />
   <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josh-Muleshi&theme=github_dark" />
 </p>
 
